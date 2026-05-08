@@ -10,7 +10,7 @@
 
 This project is an end-to-end Exploratory Data Analysis (EDA) of a real-world e-commerce dataset from a UK-based online retailer. The dataset covers all transactions between December 2010 and December 2011 and was sourced from the [UCI Machine Learning Repository via Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
 
-The analysis covers data cleaning, distribution exploration, sales trend analysis, customer segmentation by spending, and product performance — all structured around eight business questions.
+The analysis covers data cleaning, distribution exploration, sales trend analysis, customer segmentation by spending, and product performance, all structured around eight business questions.
 
 ---
 
@@ -47,7 +47,7 @@ The analysis covers data cleaning, distribution exploration, sales trend analysi
 - **Total revenue** across the clean dataset was **£8,887,208.89**
 - **PAPER CRAFT, LITTLE BIRDIE** was the top-performing product by both revenue and quantity sold
 - **United Kingdom** accounted for the vast majority of all revenue across 37 countries
-- Revenue showed a clear **Q4 spike (October–November)**, consistent with holiday gift buying — the retailer primarily sells occasion gifts
+- Revenue showed a clear **Q4 spike (October–November)**, consistent with holiday gift buying, the retailer primarily sells occasion gifts
 - **25% of raw transactions** had no CustomerID, pointing to guest checkouts or data collection gaps
 - A small number of **high-volume wholesale orders** heavily skew the quantity distribution
 - The **top 10 customers** generate a disproportionately high share of revenue, consistent with a B2B wholesale business model
