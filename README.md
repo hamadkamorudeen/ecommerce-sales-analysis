@@ -153,5 +153,4 @@ Available via Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 ## Author
 
 **Hamad**  
-Actuarial Science Student | Data Analytics Enthusiast  
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://linkedin.com/in/hamadkamorudeen) · [GitHub](https://github.com/hamadkamorudeen)
